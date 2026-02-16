@@ -8,20 +8,20 @@ This repository contains personal study notes for upper-level physics modules at
 
 ## 📚 Modules Included
 
-### ⚛️ PHAS0040: Nuclear and Particle Physics
+### PHAS0040: Nuclear and Particle Physics
 * **Academic Year:** 2024–2025
 * **Lecturers:** Prof. Emily Nurse, Prof. Andreas Korn, Prof. Matthew Wing, Dr. Rebecca Chislett
 * **Core Content:** The Standard Model, Feynman Diagrams, Nuclear Models (Liquid Drop/Shell), and Fusion/Fission dynamics.
 
 
-### 🌌 PHAS0069: Advanced Quantum Theory
+### PHAS0069: Advanced Quantum Theory
 * **Academic Year:** 2025–2026
 * **Lecturers:** Prof. Sougato Bose, Prof. Marzena Szymanska, Prof. Tania Monteiro
 * **Core Content:** Dirac Notation, Formal Methods, Perturbation Theory, Variational Principle, and WKB Approximation.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These are **unofficial** study notes compiled by a student (Aleksej Rodano) based on lectures and official course materials provided by UCL. They are **not** the intellectual work of the author in any original sense — the physics, structure, and content are derived directly from the professors' lectures and notes.
 
@@ -32,7 +32,7 @@ These are **unofficial** study notes compiled by a student (Aleksej Rodano) base
 
 ---
 
-## ⚖️ Intellectual Property & Fair Use
+## Intellectual Property & Fair Use
 
 These notes are shared under the principle of **Fair Dealing** for non-commercial educational purposes:
 
@@ -40,7 +40,7 @@ These notes are shared under the principle of **Fair Dealing** for non-commercia
 2. **Non-Commercial:** This repository is strictly non-profit and will never be used for commercial distribution.
 3. **Derivative Nature:** While the layout and condensed presentation are my own, the underlying intellectual content belongs to UCL and the respective lecturers.
 
-### 📩 Take-Down Policy
+### Take-Down Policy
 
 If you are a member of UCL faculty or a copyright holder of any underlying material and wish for these notes to be removed or modified, please open an **Issue** in this repository or contact me directly. **I will comply with all take-down requests immediately and without dispute.**
 
