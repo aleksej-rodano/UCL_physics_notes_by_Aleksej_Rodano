@@ -46,4 +46,4 @@ If you are a member of UCL faculty or a copyright holder of any underlying mater
 
 ---
 
-*Maintained by Aleksej Rodano *
+*Maintained by Aleksej Rodano*
