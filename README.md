@@ -6,7 +6,7 @@ This repository contains personal study notes for upper-level physics modules at
 
 ---
 
-## 📚 Modules Included
+## Modules Included
 
 ### PHAS0040: Nuclear and Particle Physics
 * **Academic Year:** 2024–2025
