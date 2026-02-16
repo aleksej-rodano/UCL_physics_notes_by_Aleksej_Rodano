@@ -1,6 +1,6 @@
 # UCL Physics Study Notes (Unofficial)
 
-This repository contains personal study notes for upper-level physics modules at **University College London (UCL)**. These documents are comprehensive summaries designed to bridge the gap between lecture slides and core textbooks.
+This repository contains personal study notes for upper-level physics modules at **University College London (UCL)**.
 
 ---
 
