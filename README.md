@@ -10,14 +10,12 @@ This repository contains personal study notes for upper-level physics modules at
 * **Academic Year:** 2024-2025
 * **Lecturers:** Prof. Emily Nurse, Prof. Andreas Korn, Prof. Matthew Wing, Dr. Rebecca Chislett
 * **Core Content:** The Standard Model, Feynman Diagrams, Nuclear Models (Liquid Drop/Shell), and Fusion/Fission dynamics.
-* **Key Features:** Includes detailed student-led derivations and a modification log of changes from the original syllabus.
 * **[Download/View PDF](./Nuclear_Particle_Physics_phas0040_notes.pdf)**
 
 ### 🌌 PHAS0069: Advanced Quantum Theory
 * **Academic Year:** 2025-2026
 * **Lecturers:** Prof. Sougato Bose, Prof. Marzena Szymanska, Prof. Tania Monteiro
 * **Core Content:** Dirac Notation, Formal Methods, Perturbation Theory, Variational Principle, and WKB Approximation.
-* **Key Features:** Focuses on mathematical rigor and formal postulates of Quantum Mechanics.
 * **[Download/View PDF](./AQM_notes%20(11).pdf)**
 
 ---
