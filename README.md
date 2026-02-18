@@ -21,6 +21,16 @@ This repository contains personal study notes for upper-level physics modules at
 
 ---
 
+### Reporting Errors
+If you spot a typo, algebraic slip, or formatting mistake, please raise an Issue in this repository. To help me fix it quickly, be sure to include:
+
+* Module 
+* Page Number
+* Equation Number (if applicable)
+
+
+---
+
 ## Disclaimer
 
 These are **unofficial** study notes compiled by a student (Aleksej Rodano) based on lectures and official course materials provided by UCL. They are **not** the intellectual work of the author in any original sense — the physics, structure, and content are derived directly from the professors' lectures and notes.
