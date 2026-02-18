@@ -34,7 +34,7 @@ These are **unofficial** study notes compiled by a student (Aleksej Rodano) base
 
 ## Intellectual Property & Fair Use
 
-These notes are shared under the principle of **Fair Dealing** for non-commercial educational purposes:
+These notes are shared for private study and non-commercial research under the UK Copyright, Designs and Patents Act 1988 (Fair Dealing).
 
 1. **Attribution:** Full credit is given to the module leads at UCL for all curriculum content, concepts, and figures.
 2. **Non-Commercial:** This repository is strictly non-profit and will never be used for commercial distribution.
